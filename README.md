@@ -9,3 +9,10 @@ That is one of the reasons I have no intention of spending time on it.
 
 You're of course free to use it, fork it and all the other freedoms granted to you by the [LICENSE](LICENSE).  
 But don't expect me to spend time on it.
+
+The best you (all) can do is:
+- find someone who is willing and capable to maintain a repo for the 8814AU chipset
+- create a community repo where you pool resources together to make the best of it. You're free to use anything from this repo to achieve that.
+
+This is nothing personal or something like that.
+My time is limited and maintaining this/a driver repo is not the best use of my time. I'm not dumb, but I'm not a C coder, let alone a kernel hacker.
