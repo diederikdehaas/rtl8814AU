@@ -1,4 +1,13 @@
 # rtl8814AU
+
+It looks like the fine people over at `aircrack-ng` have a rtl8814AU repo:
+https://github.com/aircrack-ng/rtl8814au
+
+They know what they're doing and seem to properly maintain them :)  
+You should use that one instead of this repo.
+
+## previous contents:
+
 This repository contains a driver for the rtl8814AU chipset.  
 
 The original downloaded archive indicated that kernels till version 5.1 are supported.  
